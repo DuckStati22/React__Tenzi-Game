@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/React__Tenzi-Game/static/css/main.839c119d.css",
-    "main.js": "/React__Tenzi-Game/static/js/main.19838572.js",
+    "main.css": "/React__Tenzi-Game/static/css/main.5024782a.css",
+    "main.js": "/React__Tenzi-Game/static/js/main.8ca83f63.js",
     "index.html": "/React__Tenzi-Game/index.html",
-    "main.839c119d.css.map": "/React__Tenzi-Game/static/css/main.839c119d.css.map",
-    "main.19838572.js.map": "/React__Tenzi-Game/static/js/main.19838572.js.map"
+    "main.5024782a.css.map": "/React__Tenzi-Game/static/css/main.5024782a.css.map",
+    "main.8ca83f63.js.map": "/React__Tenzi-Game/static/js/main.8ca83f63.js.map"
   },
   "entrypoints": [
-    "static/css/main.839c119d.css",
-    "static/js/main.19838572.js"
+    "static/css/main.5024782a.css",
+    "static/js/main.8ca83f63.js"
   ]
 }
